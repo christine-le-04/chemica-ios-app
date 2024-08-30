@@ -1,1 +1,7 @@
-# chemica-ios-app
+# Chemica-IOS-App
+
+This app was developed as part of the Apple Foundation Program at RMIT in February 2024 in collaboration with my 3 teammates. Although the underlying concept centred around the theme of kindness, our team's interpretation resulted in our app called Chemica.
+
+Chemica serves as a tool for Occupational Health and Safety (OHS) and Workplace Health and Safety (WHS) professionals to assist in convenient access to the Queensland Dangerous Goods Compatibility Guide. This guide informs workers about the safe storage of various dangerous goods and emphasises the importance of avoiding incompatible combinations. As we recognised the complexity and potential for human error in the existing guide, our app utilises the information in the guide and digitalises it to provide workers with a more user-friendly format to understand safe storage options. 
+
+The key features of the app include the usage of Augmented Reality (AR) and Machine Learning (ML). Through the camera functionality, the users can scan a dangerous goods hazard sign, allowing the app to recognise it and redirect the user to a dedicated page that provides the necessary storage information. In addition to the camera feature, we have implemented a comprehensive library page that contains all the information on the various hazard signs, enabling users to manually access the information without needing to utilise the camera function.
